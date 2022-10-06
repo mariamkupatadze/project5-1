@@ -1,0 +1,84 @@
+.border{
+    border: 2px solid green;
+    margin-top: 50px;
+    margin-left:50px;
+    margin-right:50px;
+    background-color: pink;
+    
+    
+}
+.logo{
+    float:right;
+    margin-right: 40px;
+}
+.h1{
+    float:right;
+    letter-spacing: 6px;
+    font-weight: bold;
+    line-height:50px;
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-right:100px;
+    font-family: 'Balsamiq Sans', cursive;
+
+}
+.h2{
+    float:right;
+    letter-spacing: 6px;
+    font-weight: bold;
+    line-height:50px;
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-right:270px;
+    font-family: 'Balsamiq Sans', cursive;
+
+}
+.h3{
+    float:left;
+    letter-spacing: 6px;
+    font-weight: bold;
+    line-height:50px;
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-left:200px;
+    font-family: 'Balsamiq Sans', cursive;
+
+
+}
+.h4{
+    float:left;
+    letter-spacing: 6px;
+    font-weight: bold;
+    line-height:50px;
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-left:270px;
+    font-family: 'Balsamiq Sans', cursive;
+
+
+}
+   
+.clear{
+    clear:both;
+}
+.div1{
+    background: yellow;
+    width: 850px;
+    height: 410px;
+    float:left;
+    margin-left:40px;
+    margin-bottom: 40px;
+}
+.div2{
+    background: yellow;
+    width: 850px;
+    height: 410px;
+    float:right;
+    margin-right: 40px;
+}
+.image{
+    float:right;
+}
+.image1{
+    float:left;
+}
